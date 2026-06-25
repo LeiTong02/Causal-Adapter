@@ -69,7 +69,7 @@ A_MATRICES = {
 
 # (default_prompt, default_presudo_words) used at training time.
 DATASET_PROMPTS = {
-    "pendulum":      ("a image of kid and @ and * and & and !", "@,*,&,!"),
+    "pendulum":      ("a image of @ and * and & and !", "@,*,&,!"),
     "celeA_complex": ("a human of @ and * and & and !",         "@,*,&,!"),
     "ADNI":          ("a mri image of @ and * and &",           "@,*,&"),
 }
